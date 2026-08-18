@@ -1,10 +1,10 @@
 # LLMbias
 
-Minimal experiment code for measuring bias in LLM-as-a-judge evaluations on
+Experiment code for measuring bias in LLM-as-a-judge evaluations on
 [CodeJudgeBench](https://github.com/hongcha0/CodeJudgeBench).
 
 This repository intentionally contains only the files needed to run and score
-the experiments. It does not include agent configuration, cluster-specific
+the experiments. It does not include cluster-specific
 automation, model weights, datasets, logs, or generated results.
 
 ## Requirements
