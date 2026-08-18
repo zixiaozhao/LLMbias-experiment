@@ -85,11 +85,14 @@ metadata.
 If you use the benchmark, cite:
 
 ```bibtex
-@article{jiang2025codejudgebench,
-  title   = {CodeJudgeBench: Benchmarking LLM-as-a-Judge for Coding Tasks},
-  author  = {Hongchao Jiang and Yiming Chen and Yushi Cao and Hung-yi Lee and Robby T. Tan},
-  year    = {2025},
-  journal = {arXiv preprint arXiv:2507.10535}
+@misc{zhao2026biasloopauditingllmasajudge,
+      title={Bias in the Loop: Auditing LLM-as-a-Judge for Software Engineering}, 
+      author={Zixiao Zhao and Amirreza Esmaeili and Fatemeh Fard},
+      year={2026},
+      eprint={2604.16790},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2604.16790}, 
 }
 ```
 
